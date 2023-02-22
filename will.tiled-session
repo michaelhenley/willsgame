@@ -1,0 +1,72 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Magma.tmx",
+    "expandedProjectPaths": [
+        "Will/tmx",
+        "Will",
+        ".",
+        "Will/LPC_Terrain",
+        "Will/tsx"
+    ],
+    "fileStates": {
+        "Magma.tmx": {
+            "scale": 0.18944335937499998,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 2562.7712768699416,
+                "y": 2048.105572452188
+            }
+        },
+        "Will/LPC_Terrain/Terrain.tsx": {
+            "scaleInDock": 1
+        },
+        "Will/tmx/map.tmx": {
+            "scale": 0.02789306640625,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 16222.669584245077,
+                "y": 15989.636761487964
+            }
+        },
+        "Will/tsx/Floor.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Will/tsx/landscape.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "Will/tsx/ship.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        }
+    },
+    "last.externalTilesetPath": "C:/Dev/Magma/Will/LPC_Terrain",
+    "last.imagePath": "C:/Dev/Magma/project/graphics/tilemap",
+    "map.height": 1000,
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 128,
+    "map.tileWidth": 128,
+    "map.width": 1000,
+    "openFiles": [
+        "Will/tmx/map.tmx",
+        "Magma.tmx"
+    ],
+    "project": "will.tiled-project",
+    "recentFiles": [
+        "Will/tmx/map.tmx",
+        "Magma.tmx",
+        "Will/tsx/Floor.tsx",
+        "Will/tsx/ship.tsx",
+        "Will/tsx/landscape.tsx"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)",
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 128,
+        "width": 128
+    }
+}
